@@ -42,6 +42,7 @@ FastAPI·PostgreSQL·React·Docker·AWS 기획→개발→배포 전 과정
 **4인 팀 프로젝트 | 멋쟁이 사자처럼 부트캠프**
 
 **백엔드 GitHub**: [github.com/ken-do-it/2025-like-lion-team-project-2-gpt](https://github.com/ken-do-it/2025-like-lion-team-project-2-gpt)
+
 **프론트 GitHub**: [github.com/ken-do-it/2025-like-lion-team-project-2-gpt](https://github.com/ken-do-it/2025-like-lion-team-project-2-gpt)
 
 #### 주요 성과
